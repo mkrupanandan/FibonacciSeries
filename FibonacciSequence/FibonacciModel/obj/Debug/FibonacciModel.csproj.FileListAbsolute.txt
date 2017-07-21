@@ -1,0 +1,5 @@
+C:\Projects\POC\FibonacciSequence\FibonacciSequence\FibonacciModel\bin\Debug\FibonacciModel.dll
+C:\Projects\POC\FibonacciSequence\FibonacciSequence\FibonacciModel\bin\Debug\FibonacciModel.pdb
+C:\Projects\POC\FibonacciSequence\FibonacciSequence\FibonacciModel\obj\Debug\FibonacciModel.csprojResolveAssemblyReference.cache
+C:\Projects\POC\FibonacciSequence\FibonacciSequence\FibonacciModel\obj\Debug\FibonacciModel.dll
+C:\Projects\POC\FibonacciSequence\FibonacciSequence\FibonacciModel\obj\Debug\FibonacciModel.pdb
